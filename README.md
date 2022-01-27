@@ -2,5 +2,5 @@
 paste type website
 
 for web from these two sites:
-justpaste.it'
+justpaste.it
 pastebin.com
